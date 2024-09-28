@@ -13,6 +13,7 @@ The pipeline is as follows:
 
 ---
 
-This work is being prepared for publication, with the following working title:
+This work is being prepared for publication, with the following working title: 
+_NarrAI: Leveraging NLP, LLMs and Network Community Detection for Enhanced Narrative Extraction in the UK Migration Debate_
 
-"abc"
+For any questions, contact Tedi Yankov at teodor.yankov@outlook.com.
